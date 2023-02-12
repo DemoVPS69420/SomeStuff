@@ -1,0 +1,6 @@
+$cooldown[1h;Hey <@$authorID>, You Are Still On Cooldown...Please Wait Until <t:$sum[$getTimestamp;$getCooldown[normal]]> And Try Again For Normal Faucet]
+
+$sendMessage[$tip <@$authorID> 0.00$randomText[02;02;02;02;04;02;16;02;02;05;02;02;02;02;02;08;02;02;04;02;02;02;02;02;02;02;02;02;02;20;02;02;09;02;02;07;02;02;02;10;02;02;02;04;02;02;12;02;05;02;14;02;02;02;08;02;02;04;09;02;02;02;02;02;02;02;13;02;02;02;02;02;02;15;02;02;02;02;02;02;17;02;02;18;02;02;02;02;02;02;19]$ $message]
+
+$channelSendMessage[898477755379900427;> **$username** Claimed With $toUppercase[$message] Coin/Token On Normal Faucet]
+> Completed <:CloseEmoji:811922759718273054>
