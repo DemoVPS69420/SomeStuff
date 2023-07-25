@@ -1,0 +1,1 @@
+wget "https://software.download.prss.microsoft.com/dbazure/Win10_22H2_EnglishInternational_x64v1.iso?t=aeef8ee1-1231-4d4d-8e76-1b9329207d1b&e=1690378186&h=2ce92da7721a179c96bd20c2181f65d90aeb073f10dc6bb298989f2eef3d6b21"
