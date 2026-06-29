@@ -776,7 +776,7 @@ It's such a headache.
 
 195
 00:17:55,350 --> 00:17:57,830
-Gis! Where is Gis?
+Djeese! Where is Djeese?
 
 196
 00:18:00,560 --> 00:18:01,400
@@ -784,7 +784,7 @@ I'm here.
 
 197
 00:18:02,020 --> 00:18:03,270
-Gis.
+Djeese.
 
 198
 00:18:03,270 --> 00:18:05,990
@@ -804,7 +804,7 @@ What are you all doing? We desperately need the Water Dragon's power now!
 
 202
 00:18:22,880 --> 00:18:26,840
-I've already dispatched Zordan—please wait a little longer.
+I've already dispatched Zodon—please wait a little longer.
 
 203
 00:18:42,900 --> 00:18:45,190
@@ -876,7 +876,7 @@ Buy now and you get this for free!
 
 220
 00:19:54,220 --> 00:19:56,100
-Lord Gis, we've found her.
+Lord Djeese, we've found her.
 
 221
 00:19:56,720 --> 00:19:57,780
@@ -1492,7 +1492,7 @@ Yura!
 
 374
 00:33:35,460 --> 00:33:36,290
-Zordan.
+Zodon.
 
 375
 00:33:53,810 --> 00:33:54,640
@@ -1776,7 +1776,7 @@ I've got it.
 
 445
 00:42:29,110 --> 00:42:31,200
-Well done, Zordan.
+Well done, Zodon.
 
 446
 00:42:34,740 --> 00:42:36,620
@@ -1804,7 +1804,7 @@ I see.
 
 452
 00:43:02,480 --> 00:43:07,070
-Where did Gis go? Has the Water Dragon still not awakened?
+Where did Djeese go? Has the Water Dragon still not awakened?
 
 453
 00:43:08,940 --> 00:43:10,200
@@ -1812,7 +1812,7 @@ I'm right here.
 
 454
 00:43:10,200 --> 00:43:11,930
-Gis.
+Djeese.
 
 455
 00:43:12,280 --> 00:43:12,910
@@ -1828,7 +1828,7 @@ I've already retrieved the Dragon's Fang from her, as you can see.
 
 458
 00:43:21,870 --> 00:43:23,540
-That's our Gis.
+That's our Djeese.
 
 459
 00:43:23,750 --> 00:43:27,570
@@ -1900,7 +1900,7 @@ Yura!
 
 476
 00:45:16,780 --> 00:45:21,160
-My name is Yura. I'm the priestess of the Kingdom of the Abyss.
+My name is Yura. I'm the priestess of the Kingdom of Kaien.
 
 477
 00:45:21,580 --> 00:45:22,620
@@ -1908,7 +1908,7 @@ Priestess?
 
 478
 00:45:22,620 --> 00:45:23,660
-Kingdom of the Abyss?
+Kingdom of Kaien?
 
 479
 00:45:24,500 --> 00:45:29,290
@@ -1924,7 +1924,7 @@ Does this have something to do with that dragon just now?
 
 482
 00:45:42,430 --> 00:45:46,390
-That dragon is the Water Dragon, the guardian deity of the Kingdom of the Abyss.
+That dragon is the Water Dragon, the guardian deity of the Kingdom of Kaien.
 
 483
 00:45:49,310 --> 00:45:54,110
@@ -1936,7 +1936,7 @@ Attack the surface?
 
 485
 00:45:57,450 --> 00:46:01,830
-Come to think of it, the Kingdom of the Abyss's chancellor is Gis.
+Come to think of it, the Kingdom of Kaien's chancellor is Djeese.
 
 486
 00:46:02,030 --> 00:46:03,060
@@ -1964,7 +1964,7 @@ Y-Yes.
 
 492
 00:46:21,220 --> 00:46:26,020
-With my power alone, I cannot stop Gis.
+With my power alone, I cannot stop Djeese.
 
 493
 00:46:27,270 --> 00:46:30,400
@@ -1992,7 +1992,7 @@ Then I'll formally issue the request.
 
 499
 00:46:50,420 --> 00:46:55,210
-Could you head to the Kingdom of the Abyss and resolve this problem?
+Could you head to the Kingdom of Kaien and resolve this problem?
 
 500
 00:47:00,220 --> 00:47:04,030
@@ -2012,7 +2012,7 @@ Then let's take a trip to the seafloor.
 
 504
 00:47:15,860 --> 00:47:17,110
-To the Kingdom of the Abyss.
+To the Kingdom of Kaien.
 
 505
 00:47:17,740 --> 00:47:19,340
@@ -2160,7 +2160,7 @@ The Nuclear Strike magic...
 
 541
 00:49:38,080 --> 00:49:43,090
-The Kingdom of the Abyss is caught in the Nuclear Strike magic every single day.
+The Kingdom of Kaien is caught in the Nuclear Strike magic every single day.
 
 542
 00:49:46,010 --> 00:49:48,090
@@ -2180,11 +2180,11 @@ I'd think Leon would avoid harming others.
 
 546
 00:49:56,020 --> 00:49:58,310
-All of this seems to be Gis's scheme.
+All of this seems to be Djeese's scheme.
 
 547
 00:49:59,150 --> 00:50:04,150
-The Nuclear Strike magic itself lands in a place that doesn't affect the Kingdom of the Abyss.
+The Nuclear Strike magic itself lands in a place that doesn't affect the Kingdom of Kaien.
 
 548
 00:50:05,820 --> 00:50:06,240
@@ -2196,11 +2196,11 @@ However...
 
 550
 00:50:12,910 --> 00:50:16,040
-Gis triggers a separate explosion near the Kingdom of the Abyss,
+Djeese triggers a separate explosion near the Kingdom of Kaien,
 
 551
 00:50:16,250 --> 00:50:19,170
-making everyone believe the Nuclear Strike magic struck the Kingdom of the Abyss.
+making everyone believe the Nuclear Strike magic struck the Kingdom of Kaien.
 
 552
 00:50:19,370 --> 00:50:21,610
@@ -2224,7 +2224,7 @@ So that's what it meant.
 
 557
 00:50:31,680 --> 00:50:34,810
-Gis is the Kingdom of the Abyss's chancellor, right?
+Djeese is the Kingdom of Kaien's chancellor, right?
 
 558
 00:50:36,060 --> 00:50:38,770
@@ -2240,7 +2240,7 @@ and dramatically improved our lives.
 
 561
 00:50:46,900 --> 00:50:50,130
-If Gis says so, then it must be true.
+If Djeese says so, then it must be true.
 
 562
 00:50:51,490 --> 00:50:56,290
@@ -2284,7 +2284,7 @@ Your Majesty, I have an idea.
 
 572
 00:51:44,880 --> 00:51:46,520
-Oh? Let's hear it, Gis.
+Oh? Let's hear it, Djeese.
 
 573
 00:51:48,010 --> 00:51:51,740
@@ -2312,7 +2312,7 @@ This...
 
 579
 00:52:04,480 --> 00:52:06,250
-This is all for the Kingdom of the Abyss.
+This is all for the Kingdom of Kaien.
 
 580
 00:52:09,480 --> 00:52:10,740
@@ -2328,7 +2328,7 @@ Please make your decision.
 
 583
 00:52:20,950 --> 00:52:24,710
-If this can save the Kingdom of the Abyss, then so be it.
+If this can save the Kingdom of Kaien, then so be it.
 
 584
 00:52:46,190 --> 00:52:47,650
@@ -2352,7 +2352,7 @@ I hear he's a pushover—he'll be easy to handle.
 
 589
 00:53:03,500 --> 00:53:04,960
-As expected of Lord Gis.
+As expected of Lord Djeese.
 
 590
 00:53:06,000 --> 00:53:07,880
@@ -2460,7 +2460,7 @@ I've been waiting, Lady Yura.
 
 616
 00:55:49,500 --> 00:55:51,580
-That voice is... Gis!
+That voice is... Djeese!
 
 617
 00:55:53,880 --> 00:55:55,960
@@ -2480,7 +2480,7 @@ and even guided the surface's vanguard here.
 
 621
 00:56:06,180 --> 00:56:10,200
-She actually intended to bring surface dwellers into the Kingdom of the Abyss.
+She actually intended to bring surface dwellers into the Kingdom of Kaien.
 
 622
 00:56:10,770 --> 00:56:12,850
@@ -2492,7 +2492,7 @@ Lady Yura would never do such a thing.
 
 624
 00:56:15,770 --> 00:56:17,860
-Then is Lord Gis lying?
+Then is Lord Djeese lying?
 
 625
 00:56:17,860 --> 00:56:19,320
@@ -2500,7 +2500,7 @@ How could that be?
 
 626
 00:56:21,190 --> 00:56:23,700
-Gis, show yourself!
+Djeese, show yourself!
 
 627
 00:56:27,660 --> 00:56:28,290
@@ -2520,7 +2520,7 @@ It's the Water Dragon!
 
 631
 00:56:48,510 --> 00:56:49,560
-Gis?
+Djeese?
 
 632
 00:56:53,310 --> 00:56:58,940
@@ -2588,7 +2588,7 @@ I truly don't understand why it was never used.
 
 648
 00:59:05,110 --> 00:59:06,340
-Gis...
+Djeese...
 
 649
 00:59:07,610 --> 00:59:13,140
@@ -2684,7 +2684,7 @@ Our ancestors painted this when they first settled here.
 
 672
 01:04:17,090 --> 01:04:18,960
-That's the Kingdom of the Abyss.
+That's the Kingdom of Kaien.
 
 673
 01:04:19,590 --> 01:04:21,670
@@ -2836,7 +2836,7 @@ Cursed Yura—I'll make you pay dearly.
 
 710
 01:06:45,780 --> 01:06:47,240
-Zordan.
+Zodon.
 
 711
 01:06:47,650 --> 01:06:49,740
@@ -2848,7 +2848,7 @@ Why are you only rescuing me now? So slow!
 
 713
 01:07:12,470 --> 01:07:13,300
-Zordan...
+Zodon...
 
 714
 01:07:14,760 --> 01:07:16,640
@@ -2916,7 +2916,7 @@ Ever since we were entrusted with the flute,
 
 730
 01:10:44,140 --> 01:10:48,100
-my family has prayed for the Kingdom of the Abyss.
+my family has prayed for the Kingdom of Kaien.
 
 731
 01:10:52,900 --> 01:10:57,490
@@ -2948,7 +2948,7 @@ After that, the Water Dragon fell into a long slumber.
 
 738
 01:11:29,190 --> 01:11:32,940
-And the people of the Kingdom of the Abyss kept offering their prayers.
+And the people of the Kingdom of Kaien kept offering their prayers.
 
 739
 01:11:34,610 --> 01:11:36,900
@@ -2996,7 +2996,7 @@ And together we built a nation.
 
 750
 01:12:23,610 --> 01:12:25,700
-The people of the Kingdom of the Abyss are comrades too.
+The people of the Kingdom of Kaien are comrades too.
 
 751
 01:12:26,120 --> 01:12:27,990
@@ -3048,7 +3048,7 @@ Water Dragon priestess, Yura.
 
 763
 01:13:35,140 --> 01:13:36,000
-Zordan!
+Zodon!
 
 764
 01:13:41,820 --> 01:13:42,440
@@ -3144,11 +3144,11 @@ What happened to Yuri and Mio?
 
 787
 01:15:49,650 --> 01:15:51,320
-Was this Gis's doing too?
+Was this Djeese's doing too?
 
 788
 01:15:52,160 --> 01:15:53,200
-Gis...
+Djeese...
 
 789
 01:15:55,280 --> 01:15:57,370
@@ -3280,7 +3280,7 @@ Notice.
 
 821
 01:18:06,670 --> 01:18:10,840
-A powerful energy has been detected on the seafloor of the Kingdom of the Abyss.
+A powerful energy has been detected on the seafloor of the Kingdom of Kaien.
 
 822
 01:18:11,670 --> 01:18:12,500
@@ -3292,11 +3292,11 @@ Yura?
 
 824
 01:18:20,850 --> 01:18:21,680
-Zordan?
+Zodon?
 
 825
 01:18:22,310 --> 01:18:24,040
-So Zordan was the mastermind behind it all.
+So Zodon was the mastermind behind it all.
 
 826
 01:18:25,020 --> 01:18:26,890
@@ -3332,7 +3332,7 @@ What's going on?
 
 834
 01:18:53,170 --> 01:18:55,880
-Notice. The Kingdom of the Abyss is beginning to move.
+Notice. The Kingdom of Kaien is beginning to move.
 
 835
 01:18:55,880 --> 01:18:56,920
@@ -3448,7 +3448,7 @@ Seems the enemy is trickier than expected.
 
 863
 01:20:59,130 --> 01:21:02,050
-Rejoice, you trash of the Kingdom of the Abyss.
+Rejoice, you trash of the Kingdom of Kaien.
 
 864
 01:21:02,260 --> 01:21:05,180
@@ -3468,7 +3468,7 @@ Please stay calm.
 
 868
 01:21:19,360 --> 01:21:21,650
-The Kingdom of the Abyss is starting to surface.
+The Kingdom of Kaien is starting to surface.
 
 869
 01:21:21,860 --> 01:21:22,690
@@ -3700,7 +3700,7 @@ What?
 
 926
 01:27:57,670 --> 01:28:01,840
-It's likely the individual designated Zordan has deployed a special barrier.
+It's likely the individual designated Zodon has deployed a special barrier.
 
 927
 01:27:57,990 --> 01:28:03,390
@@ -3976,7 +3976,7 @@ Thank you both.
 
 995
 01:33:08,190 --> 01:33:10,490
-Now the Kingdom of the Abyss is saved.
+Now the Kingdom of Kaien is saved.
 
 996
 01:33:13,400 --> 01:33:16,300
@@ -4008,7 +4008,7 @@ If you'd be willing...
 
 1003
 01:33:59,700 --> 01:34:01,990
-I'd like to stay in the Kingdom of the Abyss.
+I'd like to stay in the Kingdom of Kaien.
 
 1004
 01:34:03,250 --> 01:34:05,960
@@ -4148,7 +4148,7 @@ she still won't show herself.
 
 1038
 01:36:41,530 --> 01:36:44,030
-Please watch over the Kingdom of the Abyss as it moves toward the future.
+Please watch over the Kingdom of Kaien as it moves toward the future.
 
 1039
 01:37:10,520 --> 01:37:13,640
